@@ -4,3 +4,4 @@ filetype plugin indent on
 let g:NERDTreeWinPos = "left"
 set number
 map <C-n> :NERDTreeToggle<CR>
+map <Tab> <C-W>W<CR>
